@@ -20,5 +20,3 @@ __pycache__/
 .env 
 *.csv 
 images/ 
-.env.example 
-requirements.txt 
